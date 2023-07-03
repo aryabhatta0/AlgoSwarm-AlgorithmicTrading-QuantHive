@@ -1,0 +1,436 @@
+Blueshift Alert(57350)[2023-05-18 18:30:19.708667](INFO): Set up alert manager Blueshift Alert Manager[57350] with retry limits 20.
+Blueshift Alert(57350)[2023-05-18 18:30:27.433182](INFO): Starting backtest with BollingerWithRSI.py
+Blueshift Alert(57350)[2023-05-18 18:30:27.434103](INFO): engine: 2.1.0, broker:nse-backtester, timezone:Asia/Calcutta, total sessions:1235
+Blueshift Alert(57350)[2018-01-01 00:00:00+05:30](INFO): risk management: enabled exit cool-off period for 30 minutes.
+Blueshift Alert(57350)[2018-01-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2018-01-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2018-01-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2018-03-08 15:29:00+05:30](WARNING): order 2bb2ed4477da422592336739ef9f582f for 751.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2018-04-02 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2018-04-02 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2018-04-02 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2018-07-02 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2018-07-02 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2018-07-02 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2018-07-26 15:29:00+05:30](INFO): A cash dividend of 2563.5601655999963 was applied to ADANIENT.
+Blueshift Alert(57350)[2018-07-26 15:29:00+05:30](INFO): A cash dividend of 2638.677045599996 was applied to BRITANNIA.
+Blueshift Alert(57350)[2018-10-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2018-10-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2018-10-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2018-11-28 15:29:00+05:30](INFO): A split of 0.5 was applied to BRITANNIA. Returned cash of 0.0.
+Blueshift Alert(57350)[2019-01-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2019-01-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2019-01-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2019-04-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2019-04-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2019-04-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2019-07-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2019-07-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2019-07-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2019-07-31 15:29:00+05:30](INFO): A cash dividend of -8621.324708700062 was applied to BRITANNIA.
+Blueshift Alert(57350)[2019-08-09 15:29:00+05:30](WARNING): order f2ad0d812c2e4657a03007851edb5cee for 497.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2019-10-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2019-10-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2019-10-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2019-11-15 15:29:00+05:30](WARNING): order 898af59c933e42b18f9d59f493d9db2c for 2.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2019-11-22 15:29:00+05:30](WARNING): order 1368ee4196be4f00b98f0d2df3dad90d for 90.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-01-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2020-01-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2020-01-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2020-03-20 15:29:00+05:30](INFO): A cash dividend of -20171.315722900283 was applied to ADANIENT.
+Blueshift Alert(57350)[2020-03-25 15:29:00+05:30](WARNING): order 36b6005c622a461f9a2c4149d4972e9c for 1464.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-03-25 15:29:00+05:30](WARNING): order e615f706e80947949150cbb7fa5a3e20 for 5542.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-04-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2020-04-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2020-04-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2020-04-13 15:29:00+05:30](WARNING): order a9870ba56273457cb07703567044bd23 for 2491.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-05-04 15:29:00+05:30](WARNING): order ac54a817c6b546f5909b59f2ab35d17d for 54.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-05-15 15:29:00+05:30](WARNING): order fa1e128d0fa64440a3929eddb60c3d61 for 4054.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-05-19 15:29:00+05:30](WARNING): order fe9c23dd142c4a3e9af2141e10701982 for 463.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-05-21 15:29:00+05:30](WARNING): order 58e1b4d77d6e46cd9525d3177de87917 for 1396.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-05-26 15:29:00+05:30](WARNING): order 15bd17d556064948b1843c9613986e99 for 1608.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-07-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2020-07-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2020-07-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2020-07-10 15:29:00+05:30](INFO): A cash dividend of 41101.9239149997 was applied to TATAELXSI.
+Blueshift Alert(57350)[2020-07-13 15:29:00+05:30](WARNING): order 199352ab720344f494746896a00e186b for 3289.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-07-17 15:29:00+05:30](WARNING): order 44ac00d89a874ee788077854be5dffac for 857.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-07-24 15:29:00+05:30](WARNING): order 45b4b55ca8d848f19f8b43ef5053ce33 for 999.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-07-31 15:29:00+05:30](WARNING): order 6dc9518d8c9f4a349e69050fe86cf6d1 for 795.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-08-17 15:29:00+05:30](WARNING): order aabaea730c6247b996b9ea0338185699 for 756.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-08-19 15:29:00+05:30](WARNING): order 11ad22c5e318477399e2e2e2357d8251 for 1033.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-08-26 15:29:00+05:30](WARNING): order 39434b04f0b74246ab6425a913600762 for 740.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-08-26 15:29:00+05:30](WARNING): order d50c6cc5e331466e9979b8000a48467b for 8.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-08-26 15:29:00+05:30](WARNING): order 12f8a92561df4829ae6b8530d3beab31 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-09-04 15:29:00+05:30](WARNING): order 6a0aacb5a5a5401ca52cd87dbc283aeb for 1199.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-09-23 15:29:00+05:30](WARNING): order 6bba098e369d493d8e83ec41fac92621 for 758.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-10-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2020-10-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2020-10-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2020-12-08 15:29:00+05:30](WARNING): order e0fd2bf1e202412b8fa1d780fc8e5a02 for 1597.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-12-11 15:29:00+05:30](WARNING): order 626073a023c94f8d970a290ea7c22c96 for 1130.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2020-12-17 15:29:00+05:30](WARNING): order f6a323e17c004c548e5e5a651638023d for 210.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-01-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2021-01-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2021-01-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2021-02-15 15:29:00+05:30](WARNING): order 19d11336521c4d84ba1ad4bb994e1415 for 1158.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-02-15 15:29:00+05:30](WARNING): order 596090671c9d4ab3af016f6627e19f23 for 37.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-02-24 15:29:00+05:30](WARNING): order 8683e496bf2a417392961ce8144c59c5 for 2221.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-03-08 15:29:00+05:30](WARNING): order f3c8ad1afe334c8281893a458d28367a for 4032.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-03-08 15:29:00+05:30](WARNING): order 5449ae47feba47708278a5e065cf60f0 for 18.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-03-24 15:29:00+05:30](WARNING): order 15f309747b3d43f38de3ede109547232 for 1647.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-03-26 15:29:00+05:30](WARNING): order 20da4773d5894b49b47fdc90aa2bab63 for 1274.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-04-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2021-04-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2021-04-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2021-04-07 15:29:00+05:30](INFO): A cash dividend of 134967.96563315034 was applied to BRITANNIA.
+Blueshift Alert(57350)[2021-04-16 15:29:00+05:30](WARNING): order 82936479a6af407d87a1f8db7f1ea795 for 12.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-05-06 15:29:00+05:30](WARNING): order fbfbec0628b045ecb366edd0805d7a23 for 249.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-05-10 15:29:00+05:30](WARNING): order b62c4ff76c1744198b1a3b878121b464 for 2161.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-05-11 15:29:00+05:30](WARNING): order 8ac6705deb3e4ae0b871a00a441f86b9 for 218.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-05-17 15:29:00+05:30](WARNING): order e133c7b0bb144c4888a305e2975ee623 for 847.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-05-24 15:29:00+05:30](INFO): A cash dividend of -37682.14319370008 was applied to BRITANNIA.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order d13a90d02453406ba36d2e07cb27e8f8 for 1406.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order 38501b3b19f74eff92b2e69a0a3232de for 272.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order df1a76339f954bbba45eb65b56cd9d1c for 62.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order 2cfca9936d8347afbab11d97b7513b5b for 2770.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order 6b128a68256741ad80e681cb10c21f99 for 5.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order d78473ada61f48e8a55cede5f3a2bc3f for 3.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order d8c256c7580e48a9b8c3a92592486581 for 13.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-14 15:29:00+05:30](WARNING): order 32c5a01fd58f46f2a1e67486e58cc68f for 27.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-15 15:29:00+05:30](WARNING): order aa0d777172664042be6d8bafcfe3781f for 2037.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-16 15:29:00+05:30](WARNING): order d0536b7ce5f848a2984bda3986981e5d for 241.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-16 15:29:00+05:30](INFO): A cash dividend of 11538.74115399994 was applied to TATAELXSI.
+Blueshift Alert(57350)[2021-06-18 15:29:00+05:30](WARNING): order ff66a02ea5f84daabb0122e09e12a181 for 832.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-18 15:29:00+05:30](WARNING): order f81762a130434b8e8b76918c960a5f14 for 81.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-18 15:29:00+05:30](WARNING): order 32ae1dae65044df789f34eae96cabfce for 93.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-18 15:29:00+05:30](WARNING): order 92641edf80e342419872dcb77254e12b for 20.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-21 15:29:00+05:30](WARNING): order b796c532d9cd4e2996e6e3302c1b9893 for 1790.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-22 15:29:00+05:30](WARNING): order de4bdaa0daad4f0b91c45cfdadad161d for 65.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-22 15:29:00+05:30](WARNING): order 3d7b881ae6ca4572ac0af87c5873263a for 2060.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-25 15:29:00+05:30](WARNING): order 98285716e31d44bd9581690673fa34cd for 954.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-25 15:29:00+05:30](WARNING): order 5af58c066780490cba7848bcf189497d for 1545.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-25 15:29:00+05:30](WARNING): order 629e8f0a37c0493496bdda07a5ea04aa for 7.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-29 15:29:00+05:30](WARNING): order 2a5a4b19054340fbae325af3c7b4b381 for 616.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-29 15:29:00+05:30](WARNING): order 725cfa502520421bb4c42ff9093c1133 for 46.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-06-30 15:29:00+05:30](INFO): A cash dividend of 7453.324206899653 was applied to ADANIENT.
+Blueshift Alert(57350)[2021-07-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2021-07-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2021-07-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2021-07-01 15:29:00+05:30](WARNING): order 63e6e0cd5091449d9b52cdbab25e78d8 for 118.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-05 15:29:00+05:30](WARNING): order e2df91530d514fb0bf75c73e9ba3b033 for 622.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-08 15:29:00+05:30](WARNING): order 4f451709a1fe42e9aaabd98fb1ef1513 for 1468.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-08 15:29:00+05:30](WARNING): order ba56f20fcfb7456a805cf0a9bd7f681f for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-08 15:29:00+05:30](WARNING): order 223feadb19404c4cb5c60d17bbadc4b5 for 9.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-09 15:29:00+05:30](WARNING): order b9c966cf418d4d2cac9520123b200895 for 581.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-20 15:29:00+05:30](WARNING): order e8b1b56244cb4791a855822772b330c9 for 776.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-20 15:29:00+05:30](WARNING): order 38a3456744624949b0418393d8bc089d for 31.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-20 15:29:00+05:30](WARNING): order 1481ffc332934fd3b92cec676c7bd9df for 53.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-20 15:29:00+05:30](WARNING): order b1ff11d3f69344628bf1aa02433c86db for 24.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-22 15:29:00+05:30](WARNING): order 9b882b9326b04948a9371621e9396a82 for 1459.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-23 15:29:00+05:30](WARNING): order 57f9cf5f722147f3a427607026f9268d for 639.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-27 15:29:00+05:30](WARNING): order 8a1668ba3cd64949afe7629323979d2b for 1597.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-29 15:29:00+05:30](WARNING): order f47c3d27aa2c45fbaf99e63fa9e93865 for 1237.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-29 15:29:00+05:30](WARNING): order 419208f31fb14f2aaeab5495bf9f073e for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-30 15:29:00+05:30](WARNING): order a241ac899626465199d8442a4e7b08c8 for 988.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-07-30 15:29:00+05:30](WARNING): order d6465176a268442d9c56a685c90ceb93 for 472.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-11 15:29:00+05:30](WARNING): order 44862e48c84e438099f206f5e0e04dfe for 1014.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-11 15:29:00+05:30](WARNING): order a9b0086a77e143adb2bbe429f0d32ed7 for 8.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-11 15:29:00+05:30](WARNING): order c8884330ec304590b9c51495d420c66c for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-11 15:29:00+05:30](WARNING): order 06c8a144753b4461af288b2d5695c5f4 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-12 15:29:00+05:30](WARNING): order 80bbb5be9fae4acdb264de9966ab1331 for 1383.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-16 15:29:00+05:30](WARNING): order 9af04faa864640138eef08b22bf5d9a1 for 688.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-26 15:29:00+05:30](WARNING): order 34c8b6909aa94a80b76109fdd6495631 for 1628.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-08-30 15:29:00+05:30](WARNING): order bf9bbb620b624fa288080cf6b3870ccc for 47.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-06 15:29:00+05:30](WARNING): order c39beb8fae1a4b9ba1cb9e8b279994b9 for 169.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-07 15:29:00+05:30](WARNING): order 2c6b303075c0471484e41422cffdb6dd for 1543.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-07 15:29:00+05:30](WARNING): order 707f07909e4b4b3d847db7e556098a5b for 1310.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-13 15:29:00+05:30](WARNING): order a65a2f6dfb0a4707a9bb123de7c0de97 for 1120.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-13 15:29:00+05:30](WARNING): order 28429003849340cc9868a599be6322b8 for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-14 15:29:00+05:30](WARNING): order 49dffdad351647739839f53ab0ede36f for 378.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-15 15:29:00+05:30](WARNING): order c54445924f2b4707a7724dbc9481b428 for 702.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-15 15:29:00+05:30](WARNING): order 16d6ee05d0aa4e4dba4537ec173b9b43 for 727.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-21 15:29:00+05:30](WARNING): order 2c3de4ddef464441bfad3687ac0c89b7 for 407.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-23 15:29:00+05:30](WARNING): order cae3f27626914fb888f85af5a3468de7 for 497.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-30 15:29:00+05:30](WARNING): order 135bce5189e94658951548f0d03b3d60 for 430.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-30 15:29:00+05:30](WARNING): order 4961be8b046e4ad0b9b65967b0d47a95 for 5.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-09-30 15:29:00+05:30](WARNING): order 97e0bfd28b2b455796183f32be341441 for 2.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2021-10-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2021-10-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2021-10-05 15:29:00+05:30](WARNING): order d52a7c419b6c4b22b6d99b37fc2d72a3 for 1888.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-05 15:29:00+05:30](WARNING): order 18cef864ea454623a08cf7eb89709244 for 13.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-08 15:29:00+05:30](WARNING): order 4f2dc2dd20534269a00b6809b2ba468d for 338.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-20 15:29:00+05:30](WARNING): order 9933cdd0096e4089aa3d44ebdfdbbcdd for 171.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-20 15:29:00+05:30](WARNING): order 4219b6b805d748c1a074c12ce34ff3b5 for 501.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-20 15:29:00+05:30](WARNING): order f5fb0afccde04f06a57f0f16bc352c71 for 10.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-26 15:29:00+05:30](WARNING): order 5cc895659db04aa7b2cdf8c0282febac for 664.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-26 15:29:00+05:30](WARNING): order adbc62fbc3b6475ba309098cc022d517 for 2254.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-28 15:29:00+05:30](WARNING): order d76bb67099284356878e7d712ca1e70a for 1224.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-29 15:29:00+05:30](WARNING): order b15342bb2bfa4bada355809df64837e4 for 937.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-29 15:29:00+05:30](WARNING): order d2a6a9f29505463db2e989b6b3f5c85c for 40.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-29 15:29:00+05:30](WARNING): order 3a22d8360da04104894c0a4a6c076cdc for 51.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-10-29 15:29:00+05:30](WARNING): order 189a19d65ce9457485701137c7c75c22 for 2.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-02 15:29:00+05:30](WARNING): order 46b39a66f1194ae7a943bf8254dd8383 for 567.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-03 15:29:00+05:30](WARNING): order 3f339b5654c345b29b41a0c217e56468 for 51.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-03 15:29:00+05:30](WARNING): order 9081d56a38ed40bba3f42be2797df378 for 520.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-03 15:29:00+05:30](WARNING): order 759bcaf4a6b249cca7b79b566c614afd for 1.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-03 15:29:00+05:30](WARNING): order 328c0981c26145988e772187a9de4197 for 17.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-03 15:29:00+05:30](WARNING): order 5fc9509ecc414428adcee38a242eeb37 for 5.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-03 15:29:00+05:30](WARNING): order f5cc464c23564046b864b523072f88fd for 5.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-08 15:29:00+05:30](WARNING): order 3a63921567af47f8b4131d666fd7b79c for 361.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-17 15:29:00+05:30](WARNING): order be66817b49e54223bc74582e168fee1d for 546.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-17 15:29:00+05:30](WARNING): order ac6d6d0539f94284a5904d076a02f539 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-17 15:29:00+05:30](WARNING): order 295928402ffa410d889f0f75d3b9decd for 5.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-18 15:29:00+05:30](WARNING): order d75b01500875439eb5eddb47ad736ed7 for 323.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-18 15:29:00+05:30](WARNING): order fa1e9a8d379a4da283cfd8ab761b371a for 15.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-18 15:29:00+05:30](WARNING): order 56f676c2d20348d287dba6fcc49910a8 for 8.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-18 15:29:00+05:30](WARNING): order e3b8cdf77d2c4e64ac04a186b8866d65 for 6.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-24 15:29:00+05:30](WARNING): order cac05be88f8d4af880a641b261f7b801 for 1093.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-25 15:29:00+05:30](WARNING): order 44854a9d65bb41a184de106aa0223f66 for 445.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-25 15:29:00+05:30](WARNING): order dd2d89b0470a474ebe5200c103f3ba59 for 15.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-25 15:29:00+05:30](WARNING): order 15fcef9df772447d86327d4e0654799d for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-25 15:29:00+05:30](WARNING): order dff70e83d9c1493884a4cf041df8aecc for 13.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-25 15:29:00+05:30](WARNING): order 2427e99e8df7499faba81126345e0a46 for 5.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-29 15:29:00+05:30](WARNING): order b91b12e23fe243869760d0743e4c8e0b for 1303.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-11-29 15:29:00+05:30](WARNING): order 8273351c339a4a8695a69ab8e5edfe47 for 48.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-01 15:29:00+05:30](WARNING): order bda7281a8b284dcca5fd54b45fe98817 for 979.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-03 15:29:00+05:30](WARNING): order 6dbc174c8bbc4db1ae53bd437bb777ea for 177.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-03 15:29:00+05:30](WARNING): order 7681103bd2f34a7e89141c1cb53a10ad for 2870.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-06 15:29:00+05:30](WARNING): order 0632839ab8fb47c2abfa67a14db9660e for 227.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-06 15:29:00+05:30](WARNING): order 40594c32b57645aebf5f9aa5cdf3d32a for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-06 15:29:00+05:30](WARNING): order c2b5fca9fc10481fb622566900763579 for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-06 15:29:00+05:30](WARNING): order e2f1e0e91d934e7e8a7b3966bcf5ecaf for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-13 15:29:00+05:30](WARNING): order 2f7f0c9d376c4050888db363c4790034 for 997.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-14 15:29:00+05:30](WARNING): order 0d37c6e84b234e6594cf176192c375f2 for 751.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-21 15:29:00+05:30](WARNING): order 505cc14cc7a34c44a36aaeea63a0f2af for 68.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-22 15:29:00+05:30](WARNING): order 3bea03aff90e4b559bac6beea1c749b2 for 318.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-27 15:29:00+05:30](WARNING): order 4fcf25a2ef754dd6adf062916d578afc for 1406.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-28 15:29:00+05:30](WARNING): order 29430e7d841c4920b3da078612f9521e for 790.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-28 15:29:00+05:30](WARNING): order 4c4f2c5d1a8b4447ba58cddcf0d12d1d for 2268.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-29 15:29:00+05:30](WARNING): order 05becd43272c451fbb4a7ec5b8965d36 for 1105.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-29 15:29:00+05:30](WARNING): order 90da651fe20e4d2380c2a44bf87f3d2e for 7.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-29 15:29:00+05:30](WARNING): order ef016e758643482e8ad130517ea1eca1 for 979.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2021-12-29 15:29:00+05:30](WARNING): order 84f9f369351846028f794be0ff30f93c for 7.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-03 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2022-01-03 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2022-01-03 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2022-01-06 15:29:00+05:30](WARNING): order 4cbd520a26854dba95b123907c7d9df8 for 544.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-07 15:29:00+05:30](WARNING): order 5154776e2cfd4171b63bf1942c5b8dad for 1110.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-07 15:29:00+05:30](WARNING): order da37a54c575c44948c2028241d318ab3 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-14 15:29:00+05:30](WARNING): order dde86e08c5734795a9d81d714ded234a for 316.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-17 15:29:00+05:30](WARNING): order f18c3246319443bb83300450a55325d9 for 1104.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-17 15:29:00+05:30](WARNING): order ac9c0286fd464f9c8a0644369edfb933 for 18.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-21 15:29:00+05:30](WARNING): order 99f4471eb8a94bfb8c6c7a3d1dc6f273 for 1236.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-24 15:29:00+05:30](WARNING): order 9b5f47019ba546509598234dda9d540f for 319.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-24 15:29:00+05:30](WARNING): order 846f19e331b74d8a92261ec8f01c9302 for 1.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-24 15:29:00+05:30](WARNING): order 8d522115351a48fabc4958796e1d1654 for 99.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-01-28 15:29:00+05:30](WARNING): order b0489c31cab84b1a849e4e74114b0711 for 257.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-02 15:29:00+05:30](WARNING): order 6b03c1d84069473ea64814f62c51bc74 for 55.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-07 15:29:00+05:30](WARNING): order e26eafe9893a4e49b0ad6d423bae9ada for 381.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-07 15:29:00+05:30](WARNING): order 7df0144656e94e4ea8835ab830947efb for 4.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-08 15:29:00+05:30](WARNING): order af6663ac99a5495aae2b393128387f06 for 1634.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-08 15:29:00+05:30](WARNING): order c67e1b0c839a4972b66c0a7a74952194 for 15.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-11 15:29:00+05:30](WARNING): order b1144f258a9c40129295f8d54ab7d847 for 388.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-11 15:29:00+05:30](WARNING): order dfc19fb5fddf4dc89cbc142686fc9e13 for 1539.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-15 15:29:00+05:30](WARNING): order 85917d4c82e54057af52a16747f150f8 for 1292.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-23 15:29:00+05:30](WARNING): order 5a592e08d1b247548dcc6e55b13c8154 for 202.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-23 15:29:00+05:30](WARNING): order ce84648caeae4698ab2de30a18be91ab for 824.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-02-23 15:29:00+05:30](WARNING): order 2c44ad412cab4957b9bd1cbf7948ece2 for 7.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-03-15 15:29:00+05:30](WARNING): order d295e3e39ee043f4ab65d006f87813e1 for 498.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-03-15 15:29:00+05:30](WARNING): order 5257c51b7dd34e7fbe82959d2cd496cd for 2013.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-03-24 15:29:00+05:30](WARNING): order cbeccf94d86c4a158dfe964d56151294 for 119.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-03-29 15:29:00+05:30](WARNING): order 0c5020c7a51e41c19a310ba874868c73 for 1290.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-04-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2022-04-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2022-04-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2022-05-02 15:29:00+05:30](WARNING): order b5ea1dc3944043cfa26251c69f5ea428 for 2812.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-02 15:29:00+05:30](WARNING): order 290bf526802347a4b2851a441dbc07f2 for 9.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-11 15:29:00+05:30](WARNING): order 966b759fa13c47e4810be4b1796867bf for 3456.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-12 15:29:00+05:30](WARNING): order 31da66ebccdb489886a959a290ee5ecd for 2060.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-12 15:29:00+05:30](WARNING): order e78716867bd14c1184fdd51d244734fe for 198.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-12 15:29:00+05:30](WARNING): order 190475b9e2df47f3b697898c1362c9bb for 151.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-13 15:29:00+05:30](WARNING): order c1557e2af4f549df9573f260f93b7d59 for 497.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-27 15:29:00+05:30](WARNING): order 9b14766b74b24b7489d0272dc846ba1a for 3288.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-30 15:29:00+05:30](WARNING): order af953a0e86d34779ac3c7eaae18fed53 for 3076.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-30 15:29:00+05:30](WARNING): order 5e9259a06f38413c8ef0781ba4e7b9b2 for 12.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-30 15:29:00+05:30](WARNING): order 13d4b20c383c4f678de95672c591d96c for 2.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-05-30 15:29:00+05:30](WARNING): order 5bf023cabfe946299fb74932b119c5fb for 87.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-01 15:29:00+05:30](WARNING): order 80425f287f6f4b45ab545d1130f7d7c8 for 1385.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-02 15:29:00+05:30](WARNING): order aa1074f45c4142a9b01fa7396bf36c6d for 869.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-02 15:29:00+05:30](WARNING): order 3c4540472def415a8d0724edee560cd0 for 16.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-02 15:29:00+05:30](WARNING): order 4f142eec5278436d92a1a9f414dec238 for 10.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-02 15:29:00+05:30](WARNING): order 6f408fec205e4ebb99988d1a7f7c43cf for 29.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-02 15:29:00+05:30](WARNING): order 30e57001f0274e0c80c49b1ba27700ba for 2.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-03 15:29:00+05:30](WARNING): order 5ec3377cbec547f398ec14e0678d988d for 1164.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-06 15:29:00+05:30](WARNING): order 904a7956f6314c5eab36f29ee98e9f2d for 99.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-17 15:29:00+05:30](INFO): A cash dividend of -259923.07838159957 was applied to BRITANNIA.
+Blueshift Alert(57350)[2022-06-20 15:29:00+05:30](WARNING): order 895f01174a864833aa7fc91556c8c35e for 355.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-21 15:29:00+05:30](WARNING): order 74f529d3de724361a1c3269830b99e30 for 2573.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-21 15:29:00+05:30](WARNING): order 9385936f85dc4189b44f42902d3f05e2 for 9.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-22 15:29:00+05:30](WARNING): order 38f796e1566748c0bdc81009f3e20a7f for 3558.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-24 15:29:00+05:30](WARNING): order 4b169c8cf7cd494e969e80fb49e1b742 for 1068.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-24 15:29:00+05:30](WARNING): order a19eb8a33026482c8143f0484436d5ae for 15.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-06-28 15:29:00+05:30](WARNING): order 51a02eed10b94a919af3d9328b2c2bc0 for 1505.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-07-01 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2022-07-01 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2022-07-01 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2022-07-04 15:29:00+05:30](WARNING): order c0acfd5d8a784e61a1ac6d8422c3b2c6 for 866.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-07-11 15:29:00+05:30](WARNING): order 89549f5051e843c2b4e2c6d2c513d88a for 2582.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-07-11 15:29:00+05:30](WARNING): order 563366a95e374e78a15c46ab3ff8099a for 1042.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-07-11 15:29:00+05:30](WARNING): order dd050b16c89d416b86e7ef7f0640894a for 23.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-07-13 15:29:00+05:30](INFO): A cash dividend of 6504.227115000133 was applied to ADANIENT.
+Blueshift Alert(57350)[2022-07-26 15:29:00+05:30](WARNING): order a51371f87d1a426eac5a62b7d3a51ace for 224.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-02 15:29:00+05:30](WARNING): order 9961cfc9649941f4a4073d6cc07e439e for 3084.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-19 15:29:00+05:30](WARNING): order 3fd3ee2022c045b092c22c84874dc14c for 2955.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-22 15:29:00+05:30](WARNING): order d41333967cab44f78f5539df55cf2f39 for 4744.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-23 15:29:00+05:30](WARNING): order b3c0192719bd452ca0fec04733e04b9a for 917.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-23 15:29:00+05:30](WARNING): order 818e3ae1f4e443b08a67051ec941ef4a for 82.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-23 15:29:00+05:30](WARNING): order e012e7132c694a40b6d093a764a0c7eb for 4.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-23 15:29:00+05:30](WARNING): order 24e69924e52f41a18e7fc178cc462ebe for 5869.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-23 15:29:00+05:30](WARNING): order e487809f1f7348dc93d985eaf9dfd425 for 5864.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-24 15:29:00+05:30](WARNING): order cd302b1b82b842d4a68162934a123b31 for 3010.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-29 15:29:00+05:30](WARNING): order 7b5941e28c7b4eaf81e9e2b5af6e92a3 for 2758.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-08-29 15:29:00+05:30](WARNING): order f9ccfb09e9694798a8ba89c7636dc234 for 2.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-01 15:29:00+05:30](WARNING): order 0a193077cc234b65a1c109fcfa583194 for 3004.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-05 15:29:00+05:30](WARNING): order 9c09dac930dd41778eaf34f2ad0eaf62 for 523.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-06 15:29:00+05:30](WARNING): order ffc082f5d3284b3a9b39e856ff5ac0fb for 935.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-06 15:29:00+05:30](WARNING): order d265a134ddc346a18bf90997f2390113 for 83.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-07 15:29:00+05:30](WARNING): order 77242d031c7b409ca598182ec59cb0c6 for 3662.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-16 15:29:00+05:30](WARNING): order 2473ee8e8b99405a9bd36bf996baa715 for 2158.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-21 15:29:00+05:30](WARNING): order a551ded4df7342089229ef23835fbd20 for 3011.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-21 15:29:00+05:30](WARNING): order 70c3f7d90bc54c3e9796cb96a3feffd8 for 22.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-21 15:29:00+05:30](WARNING): order 326050cd05e1430080b542f45d1104cb for 3.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-26 15:29:00+05:30](WARNING): order d9aa0eca08334e818f46098ea2a3cfc9 for 257.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-26 15:29:00+05:30](WARNING): order f92ae1b302f447009b6fb03b6873252b for 12.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-09-28 15:29:00+05:30](WARNING): order c4bba8f6245b47d5bbd8e6e7c95965fb for 1679.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-03 09:15:00+05:30](INFO): Cannot place order for ADANIENT, no price data.
+Blueshift Alert(57350)[2022-10-03 09:15:00+05:30](INFO): Cannot place order for TATAELXSI, no price data.
+Blueshift Alert(57350)[2022-10-03 09:15:00+05:30](INFO): Cannot place order for BRITANNIA, no price data.
+Blueshift Alert(57350)[2022-10-03 15:29:00+05:30](WARNING): order cc594e169568431a9bea2fdca845d541 for 2794.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-03 15:29:00+05:30](WARNING): order 70d797da96dc4b3ab068b7d967397c62 for 1549.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-03 15:29:00+05:30](WARNING): order 74b1ee07f18547ad8185932781b357ab for 8.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-04 15:29:00+05:30](WARNING): order 5cc76c5076a44796ab51bdaf7da0e086 for 1770.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-11 15:29:00+05:30](WARNING): order 523d702d0ce04154baa7eab489f78af5 for 4365.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-11 15:29:00+05:30](WARNING): order 9dacdcfeb7894c20b496e52f6f5aacdf for 51.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-11 15:29:00+05:30](WARNING): order d69ae7876ca943858a9abe8fe66563e3 for 8.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-12 15:29:00+05:30](WARNING): order 92fbb54960164600ae7eaebd36251cf3 for 1703.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-13 15:29:00+05:30](WARNING): order 989cb002f84f41b1a8d8ee01d38d5b8e for 2544.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-13 15:29:00+05:30](WARNING): order fb33dc695f714f7b82b14dfd3e2bc5ef for 2774.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-13 15:29:00+05:30](WARNING): order ca5aebfe851d4fd7a500c98d96048047 for 16.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-13 15:29:00+05:30](WARNING): order af5e6d68a13a4df9a17ccecb362b05bb for 4924.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-14 15:29:00+05:30](WARNING): order f38abcde9ec24d099484719bb708c970 for 175.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-14 15:29:00+05:30](WARNING): order 4ee3a0978d2d4941939d8b0de28883b3 for 3842.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-14 15:29:00+05:30](WARNING): order 10c552647db449dea9032e2a48ef8af5 for 5912.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-14 15:29:00+05:30](WARNING): order 5572f72ebc4d4c44917dc50225df73c2 for 2606.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-14 15:29:00+05:30](WARNING): order a31b9b365ddf4442983eff4730e7b3e1 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-17 15:29:00+05:30](WARNING): order db2307a098184dc49cc90f7f58bd64cf for 200.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-17 15:29:00+05:30](WARNING): order a2aef032119144988a9d48eaa2278577 for 5926.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-17 15:29:00+05:30](WARNING): order 635d8e82190d4d1c8bcf4226b11298eb for 2.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-17 15:29:00+05:30](WARNING): order 849d724ee98c40dba8f6fb2ba43cdaf2 for 7.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-17 15:29:00+05:30](WARNING): order 6597f750d9e442e1b9ff8603e6c8e34e for 16.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-18 15:29:00+05:30](WARNING): order 7dd34db67bfb44d7819fff283098a44e for 1940.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-18 15:29:00+05:30](WARNING): order e339e436056e4981afceae6fe6631883 for 167.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-18 15:29:00+05:30](WARNING): order 78aebc0c40764bbd9a52788aacc819f7 for 127.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-18 15:29:00+05:30](WARNING): order 527c3f51ada34cfa8eb3d6d2957c729e for 31.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-18 15:29:00+05:30](WARNING): order 379d12c692a04d7fb018f3dab1359114 for 111.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-18 15:29:00+05:30](WARNING): order f7043a198a7745e991769fdf058a15f6 for 7.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-19 15:29:00+05:30](WARNING): order d8b8a3816e1e47c2adfbf8fcb6104f1e for 5314.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-20 15:29:00+05:30](WARNING): order 70307ad1dc8141c0ab27944282340bd8 for 712.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-25 15:29:00+05:30](WARNING): order 30e6a8a233964af99fa0a4a033b7a6ac for 4160.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-25 15:29:00+05:30](WARNING): order 0af5ac6806f34a0e8409a0cf00b80644 for 5.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-25 15:29:00+05:30](WARNING): order 021bfe1aa1d34ec487aae10bf3192724 for 34.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-27 15:29:00+05:30](WARNING): order d6743f6689a4485a90a323e10c0562fb for 4597.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-28 15:29:00+05:30](WARNING): order f56128d572ae414e91652bfe8c8c6aa9 for 310.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-10-31 15:29:00+05:30](WARNING): order a5a9008273394c77afbb2f26f66140cf for 838.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-04 15:29:00+05:30](WARNING): order bb227cdee77042b3a70b5b37df95ee9d for 2351.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-04 15:29:00+05:30](WARNING): order f69443dc6d0f42edbd485e8fa6d7cd57 for 67.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-16 15:29:00+05:30](WARNING): order 925ec2f44f2f458888498dea4cc46f54 for 5053.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-16 15:29:00+05:30](WARNING): order 05cb5a78fd074350af20059ff5783fcf for 2896.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-17 15:29:00+05:30](WARNING): order 66eb721837204075a603abe5124aa826 for 301.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-17 15:29:00+05:30](WARNING): order 1ec39005fe874af0a2faea6e82079967 for 3750.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order 18307519eec34268862392b7018fd038 for 71.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order 1189875d28e54b678114ed8528c178ed for 5.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order eb0b9c242f97473fae910a5ea28f2c60 for 7.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order cac574353d4c4737b6625bbb17041ded for 11.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order c2cc5169dbd9488ea3b1f820317fffc0 for 26.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order d5b0ab180f6a44c594840f4db8462d0e for 17.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-18 15:29:00+05:30](WARNING): order 1c189c68931f4bc89c83a06bfcdd4c7c for 5196.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-21 15:29:00+05:30](WARNING): order ea1901a1990345a0b44e6f5f3f32fc69 for 6320.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-22 15:29:00+05:30](WARNING): order 443f3c2b0dab48ef92d07dfa4e0422ce for 17.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-23 15:29:00+05:30](WARNING): order 3d9e9ebebca341cfb27fa2820680dd10 for 874.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-23 15:29:00+05:30](WARNING): order 56069b5789ba4bfdaf24f0e5d616a901 for 4280.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-23 15:29:00+05:30](WARNING): order 9848eb54c8ec4501a23ff17e5fe32f3b for 28.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-23 15:29:00+05:30](WARNING): order 8a2daccb66044537843ba616ca1c2cf3 for 8.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-23 15:29:00+05:30](WARNING): order c32c71fd667148b5bb0739a382d5ff8e for 9.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-24 15:29:00+05:30](WARNING): order 3615261a71004f898e8e52e6a2636897 for 4388.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-24 15:29:00+05:30](WARNING): order 4e0e11960bfd46fb9a271d526d05843c for 62.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-24 15:29:00+05:30](WARNING): order 1c0e106624d34b388955ef145b6b3016 for 45.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-25 15:29:00+05:30](WARNING): order 941a904e97fc465b81db39f442c7cf33 for 6389.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-25 15:29:00+05:30](WARNING): order 3d53583dd9a64feabade07eff3f20c03 for 1942.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-28 15:29:00+05:30](WARNING): order 9f8679788a30423daf62c9d58cd3eb22 for 2130.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-29 15:29:00+05:30](WARNING): order df00ec9756094b7792e0b78086407181 for 2377.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-29 15:29:00+05:30](WARNING): order 8b6b0ea812a54b239d62fd182a44db64 for 321.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-11-29 15:29:00+05:30](WARNING): order 965e73e7b82a4957859375dfc4b80cf3 for 27.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-05 15:29:00+05:30](WARNING): order f16a8b52186f44549de880fe61b89596 for 4145.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-06 15:29:00+05:30](WARNING): order dc03f9fbdc75493fab71f74092f63430 for 3591.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-06 15:29:00+05:30](WARNING): order 59f9198769ab48019edf146caa33f7a6 for 13.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-07 15:29:00+05:30](WARNING): order 7e3acd2416534125ab9b6ab4eb3c3bb1 for 4950.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-07 15:29:00+05:30](WARNING): order 7a118134cb4345c1bf491b6f29bfc17a for 3404.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-08 15:29:00+05:30](WARNING): order 168b96854d91418bbabb33e0f6933c11 for 1797.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-08 15:29:00+05:30](WARNING): order 19b3225fc92044fda4bfe6645fd89c7d for 4109.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-08 15:29:00+05:30](WARNING): order 667bac8ac4274eb7bdf1d8364c7f93f7 for 1723.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-09 15:29:00+05:30](WARNING): order e4eeb6496c8945dfbcf71f9a2d6cf9bb for 4515.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-09 15:29:00+05:30](WARNING): order 69ea6e49d34442f99c46dd550adcf69c for 3060.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-09 15:29:00+05:30](WARNING): order 04ee695827364a709cb6fbd01c8c6372 for 493.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-09 15:29:00+05:30](WARNING): order c581115061504b01a49c1dbb37cb6421 for 4510.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-09 15:29:00+05:30](WARNING): order 12d3ed95ed7d45b887e056a736554278 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order 07ac7ded7a864ca381cb9e097851788a for 446.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order df52c34fda3e4db4a7b3d8db365f72fd for 41.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order 424a3319f04c44d09db730f9dcb217c7 for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order a684b920ee8a48009ec3587ebb28b771 for 3095.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order 1a4bda69cc3e4b17b8c68d9c3a1aacaa for 1.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order e3075f468eb44e4faf402e4e5eba96f8 for 6338.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order 1e068b4fa40c41b3944e8c0c72375d75 for 4.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-12 15:29:00+05:30](WARNING): order 56d70b6918094e5dac5f9ec3a53d90d4 for 3.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-13 15:29:00+05:30](WARNING): order 71a4e0df1b8e48cfa117cad19c22dfe0 for 93.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-14 15:29:00+05:30](WARNING): order 16733cc352ad4690b3f9dab207a8b0db for 2413.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-14 15:29:00+05:30](WARNING): order d751aab07232492bb0435ed6d5cbe803 for 3969.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-14 15:29:00+05:30](WARNING): order 2c9217c760d1467181b668f4cb841b23 for 6.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-14 15:29:00+05:30](WARNING): order ef7f46db95f0431081d1380844212503 for 6377.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order 206f836353ee4f92b63193e18093781c for 203.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order d22626baffb541cf861b6c3d6bd11211 for 5.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order 289824ee10d04e878163d0c2499b0e8f for 967.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order 435b08d9161e4dd99223af3b9338fbdf for 6.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order 1aa81f5579d54b11a3e44529bae2b0e6 for 9.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order 17cdc7e8abf04af6a89908df5d71f98f for 15.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order 30ff33558c184fe7a435e8ae8eabd543 for 6301.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-16 15:29:00+05:30](WARNING): order e1b918a72b4744b1834c3fc4065d3d28 for 1.0 units of Equity(TATAELXSI [867]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-19 15:29:00+05:30](WARNING): order 9b5117ea0cae476a94fda7c7783ff60f for 5209.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-19 15:29:00+05:30](WARNING): order e9abbd3067164b569bc12b52c0217450 for 18.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-19 15:29:00+05:30](WARNING): order 8dea4d439a8e4ea0a9f2499d665ba5e4 for 21.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-20 15:29:00+05:30](WARNING): order 3f14d54800c44f3d811972aa70fb7399 for 1059.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-20 15:29:00+05:30](WARNING): order 8d402034b687406f9131ae5bc6f3eca9 for 108.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-20 15:29:00+05:30](WARNING): order 259fa08bd0e84542975c11b2c54f67a2 for 6471.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-21 15:29:00+05:30](WARNING): order 0bc74509366d46749c6c272b26134da0 for 5793.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-21 15:29:00+05:30](WARNING): order 9d1749bc9aeb4ac9b28cb6caedf2926b for 148.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-22 15:29:00+05:30](WARNING): order 87aa799fa8de4c98a24312942da5d50d for 1221.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-22 15:29:00+05:30](WARNING): order bc216753340c4184a5187b7b2decff44 for 142.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-22 15:29:00+05:30](WARNING): order bfeb4d771f8d495eb8a431048d368e80 for 101.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-22 15:29:00+05:30](WARNING): order 84e71ff5369d4da8b95ab19630179739 for 75.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-22 15:29:00+05:30](WARNING): order 8a75aaf3bacf4bf0bfec2f4d7191be3c for 61.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-22 15:29:00+05:30](WARNING): order 57cdf0586f2944f19ef6621883eb3a60 for 48.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-26 15:29:00+05:30](WARNING): order 3834e352a783428ab9d290f916d5e264 for 5166.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-26 15:29:00+05:30](WARNING): order 61b8b6edbecd4d0eb95c586d140cf39a for 354.0 units of Equity(ADANIENT [17]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-27 15:29:00+05:30](WARNING): order af6988624b1947db9a77a35f3dda0fed for 2411.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-29 15:29:00+05:30](WARNING): order 96c7d4f0cc994c68bc465d4b3a1dd431 for 5136.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-30 15:29:00+05:30](WARNING): order 0ec41ce3f199419eaac323b069a63219 for 2672.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-30 15:29:00+05:30](WARNING): order 20e4491972f240bf8b30a93283c655dd for 20.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-30 15:29:00+05:30](WARNING): order 991fcc6389284493ac8c9c05899913d1 for 41.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-30 15:29:00+05:30](WARNING): order beb01af1920e4be4a3e2b09b9bdf7393 for 55.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-30 15:29:00+05:30](WARNING): order 0e6f6f3401964c0d90bd0b8d8f53f8d5 for 9.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2022-12-30 15:29:00+05:30](WARNING): order 3cdc8715f44e4d80b136024a385ba16b for 23.0 units of Equity(BRITANNIA [143]) could not be filled by EOD, and was cancelled.
+Blueshift Alert(57350)[2023-05-18 18:33:38.293641](INFO): backtest run complete, time taken 0:03:10.860000.
+Blueshift Alert(57350)[2023-05-18 18:33:38.293851](INFO): Simulated 1235 sessions out of 1235.
+Blueshift Alert(57350)[2023-05-18 18:33:38.294005](INFO): first open: 2018-01-01 00:00:00+05:30
+Blueshift Alert(57350)[2023-05-18 18:33:38.294115](INFO): last simulated: 2022-12-30 00:00:00+05:30

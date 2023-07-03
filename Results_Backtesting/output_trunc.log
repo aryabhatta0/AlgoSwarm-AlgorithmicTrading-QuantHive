@@ -1,0 +1,2505 @@
+Starting backtest with BollingerWithRSI.py
+engine: 2.1.0, broker:nse-backtester, timezone:Asia/Calcutta, total sessions:1235
+For  Equity(ADANIENT [17])
+rsi:  45.693277310924394
+For  Equity(TATAELXSI [867])
+rsi:  56.52382092410821
+For  Equity(BRITANNIA [143])
+rsi:  41.42187114292779
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  46.637035788764166
+For  Equity(TATAELXSI [867])
+rsi:  55.55480856499377
+For  Equity(BRITANNIA [143])
+rsi:  42.506931559579364
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  47.66030748252239
+For  Equity(TATAELXSI [867])
+rsi:  54.81866624787783
+For  Equity(BRITANNIA [143])
+rsi:  43.0835968128622
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  50.88009536166687
+For  Equity(TATAELXSI [867])
+rsi:  53.938463599564656
+For  Equity(BRITANNIA [143])
+rsi:  44.11863699206521
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  53.4448189259428
+For  Equity(TATAELXSI [867])
+rsi:  52.9635231839185
+For  Equity(BRITANNIA [143])
+rsi:  47.448983241997155
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  56.16012764344423
+For  Equity(TATAELXSI [867])
+rsi:  52.57339366072667
+For  Equity(BRITANNIA [143])
+rsi:  49.98894925719609
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  56.16012764344423
+For  Equity(TATAELXSI [867])
+rsi:  52.57339366072667
+For  Equity(BRITANNIA [143])
+rsi:  49.98894925719609
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  54.00238036001478
+For  Equity(TATAELXSI [867])
+rsi:  49.79053819101732
+For  Equity(BRITANNIA [143])
+rsi:  46.201247715520694
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  53.40816801143557
+For  Equity(TATAELXSI [867])
+rsi:  48.59061627268331
+For  Equity(BRITANNIA [143])
+rsi:  42.38263168060501
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  52.057956550142876
+For  Equity(TATAELXSI [867])
+rsi:  47.03644519942521
+For  Equity(BRITANNIA [143])
+rsi:  38.59125010247023
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  50.2632908250788
+For  Equity(TATAELXSI [867])
+rsi:  49.30307470175015
+For  Equity(BRITANNIA [143])
+rsi:  34.99179718891119
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  47.82664938923662
+For  Equity(TATAELXSI [867])
+rsi:  50.34328442351312
+For  Equity(BRITANNIA [143])
+rsi:  31.130411557659556
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  47.82664938923662
+For  Equity(TATAELXSI [867])
+rsi:  50.34328442351312
+For  Equity(BRITANNIA [143])
+rsi:  31.130411557659542
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  59.272463173877696
+For  Equity(TATAELXSI [867])
+rsi:  54.813455611067035
+For  Equity(BRITANNIA [143])
+rsi:  35.226425425068186
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  66.55086872978237
+For  Equity(TATAELXSI [867])
+rsi:  58.38159867411746
+For  Equity(BRITANNIA [143])
+rsi:  38.532512159451606
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  74.51102974577451
+For  Equity(TATAELXSI [867])
+rsi:  62.72702260366243
+For  Equity(BRITANNIA [143])
+rsi:  41.754773365090806
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  79.40153374290982
+For  Equity(TATAELXSI [867])
+rsi:  65.51805901034513
+For  Equity(BRITANNIA [143])
+rsi:  44.3647954228274
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  82.74821945801726
+For  Equity(TATAELXSI [867])
+rsi:  68.35270021105698
+For  Equity(BRITANNIA [143])
+rsi:  46.38400343579989
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  82.74821945801726
+For  Equity(TATAELXSI [867])
+rsi:  68.35270021105698
+For  Equity(BRITANNIA [143])
+rsi:  46.3840034357999
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  84.0983441472036
+For  Equity(TATAELXSI [867])
+rsi:  68.51160673654925
+For  Equity(BRITANNIA [143])
+rsi:  45.33826354250063
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  85.53040722516808
+For  Equity(TATAELXSI [867])
+rsi:  68.87993200346648
+For  Equity(BRITANNIA [143])
+rsi:  44.16621629804698
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  86.62388591506172
+For  Equity(TATAELXSI [867])
+rsi:  70.04048568945265
+For  Equity(BRITANNIA [143])
+rsi:  43.391943459878156
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  87.64098432630674
+For  Equity(TATAELXSI [867])
+rsi:  70.89556841884124
+For  Equity(BRITANNIA [143])
+rsi:  40.391225651456665
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  88.62041202780411
+For  Equity(TATAELXSI [867])
+rsi:  71.34250407643253
+For  Equity(BRITANNIA [143])
+rsi:  37.01083346317579
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  88.62041202780411
+For  Equity(TATAELXSI [867])
+rsi:  71.34250407643253
+For  Equity(BRITANNIA [143])
+rsi:  37.01083346317579
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  89.12634613513774
+For  Equity(TATAELXSI [867])
+rsi:  73.68054530076296
+For  Equity(BRITANNIA [143])
+rsi:  39.93728783096247
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  89.92834662691179
+For  Equity(TATAELXSI [867])
+rsi:  75.78869831498173
+For  Equity(BRITANNIA [143])
+rsi:  42.79624602677513
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  90.98431551703175
+For  Equity(TATAELXSI [867])
+rsi:  76.61194850775449
+For  Equity(BRITANNIA [143])
+rsi:  45.55086616465166
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  91.73901028357938
+For  Equity(TATAELXSI [867])
+rsi:  77.35065370019437
+For  Equity(BRITANNIA [143])
+rsi:  47.69347850641354
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  92.46944580173671
+For  Equity(TATAELXSI [867])
+rsi:  78.39299936218022
+For  Equity(BRITANNIA [143])
+rsi:  47.50491243820205
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  92.46944580173671
+For  Equity(TATAELXSI [867])
+rsi:  78.39299936218022
+For  Equity(BRITANNIA [143])
+rsi:  47.50491243820205
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  92.89428965926705
+For  Equity(TATAELXSI [867])
+rsi:  79.55378785549767
+For  Equity(BRITANNIA [143])
+rsi:  49.30819997260753
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.27703761298699
+For  Equity(TATAELXSI [867])
+rsi:  80.65930974967571
+For  Equity(BRITANNIA [143])
+rsi:  51.405115857515284
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.60942634082623
+For  Equity(TATAELXSI [867])
+rsi:  81.91918656272304
+For  Equity(BRITANNIA [143])
+rsi:  53.81337818771482
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.77652038279399
+For  Equity(TATAELXSI [867])
+rsi:  82.91736512974636
+For  Equity(BRITANNIA [143])
+rsi:  56.09786263053657
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.00353203079888
+For  Equity(TATAELXSI [867])
+rsi:  83.84631171060587
+For  Equity(BRITANNIA [143])
+rsi:  58.86193501316388
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.00353203079888
+For  Equity(TATAELXSI [867])
+rsi:  83.84631171060587
+For  Equity(BRITANNIA [143])
+rsi:  58.86193501316388
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.92487239593234
+For  Equity(TATAELXSI [867])
+rsi:  80.78448111170654
+For  Equity(BRITANNIA [143])
+rsi:  54.72372257628606
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.04761347542016
+For  Equity(TATAELXSI [867])
+rsi:  77.22959845179967
+For  Equity(BRITANNIA [143])
+rsi:  51.027862605290935
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.05321043914068
+For  Equity(TATAELXSI [867])
+rsi:  70.2719591542042
+For  Equity(BRITANNIA [143])
+rsi:  44.14690256101163
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.39457622661664
+For  Equity(TATAELXSI [867])
+rsi:  66.42494477976908
+For  Equity(BRITANNIA [143])
+rsi:  38.555719805045676
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  91.62678570149811
+For  Equity(TATAELXSI [867])
+rsi:  62.36075634872047
+For  Equity(BRITANNIA [143])
+rsi:  33.97151177382081
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  91.62678570149812
+For  Equity(TATAELXSI [867])
+rsi:  62.36075634872047
+For  Equity(BRITANNIA [143])
+rsi:  33.97151177382081
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  92.66303739850213
+For  Equity(TATAELXSI [867])
+rsi:  65.01136148414056
+For  Equity(BRITANNIA [143])
+rsi:  36.68853018335105
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.42329213235315
+For  Equity(TATAELXSI [867])
+rsi:  65.0811542314961
+For  Equity(BRITANNIA [143])
+rsi:  43.60346407869253
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.77558800399306
+For  Equity(TATAELXSI [867])
+rsi:  60.4315825991185
+For  Equity(BRITANNIA [143])
+rsi:  47.83142504070122
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.98792858036035
+For  Equity(TATAELXSI [867])
+rsi:  57.38137513570571
+For  Equity(BRITANNIA [143])
+rsi:  53.21698233207005
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.28804549776417
+For  Equity(TATAELXSI [867])
+rsi:  65.85655085819616
+For  Equity(BRITANNIA [143])
+rsi:  58.941207987996954
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.28804549776417
+For  Equity(TATAELXSI [867])
+rsi:  65.85655085819616
+For  Equity(BRITANNIA [143])
+rsi:  58.941207987996954
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.49382687891557
+For  Equity(TATAELXSI [867])
+rsi:  61.8571382064175
+For  Equity(BRITANNIA [143])
+rsi:  60.407180290874514
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  94.625221468201
+For  Equity(TATAELXSI [867])
+rsi:  58.54588837192189
+For  Equity(BRITANNIA [143])
+rsi:  64.32921552831246
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  95.03294523298958
+For  Equity(TATAELXSI [867])
+rsi:  62.57311817898041
+For  Equity(BRITANNIA [143])
+rsi:  68.12940169182606
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  95.31979938555732
+For  Equity(TATAELXSI [867])
+rsi:  63.95357541965288
+For  Equity(BRITANNIA [143])
+rsi:  71.87810029205039
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  95.6257652749732
+For  Equity(TATAELXSI [867])
+rsi:  65.22222653192816
+For  Equity(BRITANNIA [143])
+rsi:  75.33017217578903
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  95.6257652749732
+For  Equity(TATAELXSI [867])
+rsi:  65.22222653192816
+For  Equity(BRITANNIA [143])
+rsi:  75.33017217578903
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  93.33580038801159
+For  Equity(TATAELXSI [867])
+rsi:  67.24410968849091
+For  Equity(BRITANNIA [143])
+rsi:  75.90819962095763
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  90.07311915148205
+For  Equity(TATAELXSI [867])
+rsi:  69.49010518435273
+For  Equity(BRITANNIA [143])
+rsi:  76.00088844500647
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  85.15616466683372
+For  Equity(TATAELXSI [867])
+rsi:  70.26312825472687
+For  Equity(BRITANNIA [143])
+rsi:  76.56903783024609
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  74.86091529493027
+For  Equity(TATAELXSI [867])
+rsi:  64.61921261256614
+For  Equity(BRITANNIA [143])
+rsi:  66.30932833488434
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  65.07502259327816
+For  Equity(TATAELXSI [867])
+rsi:  62.16120688304284
+For  Equity(BRITANNIA [143])
+rsi:  62.437287661769986
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  65.07502259327816
+For  Equity(TATAELXSI [867])
+rsi:  62.16120688304284
+For  Equity(BRITANNIA [143])
+rsi:  62.437287661769986
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  66.66014942412964
+For  Equity(TATAELXSI [867])
+rsi:  64.80544240555363
+For  Equity(BRITANNIA [143])
+rsi:  65.54057767430972
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  67.3060298784562
+For  Equity(TATAELXSI [867])
+rsi:  69.07950095079342
+For  Equity(BRITANNIA [143])
+rsi:  68.95258324398525
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  65.8344308741394
+For  Equity(TATAELXSI [867])
+rsi:  72.16473177826425
+For  Equity(BRITANNIA [143])
+rsi:  71.49497220536207
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  64.22249003613521
+For  Equity(TATAELXSI [867])
+rsi:  74.6266873418499
+For  Equity(BRITANNIA [143])
+rsi:  74.02944884081685
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  63.33633261951793
+For  Equity(TATAELXSI [867])
+rsi:  77.61215096406828
+For  Equity(BRITANNIA [143])
+rsi:  75.29496022351397
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  63.336332619517925
+For  Equity(TATAELXSI [867])
+rsi:  77.61215096406828
+For  Equity(BRITANNIA [143])
+rsi:  75.29496022351397
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  61.86640376864239
+For  Equity(TATAELXSI [867])
+rsi:  82.45313778542422
+For  Equity(BRITANNIA [143])
+rsi:  77.68681119799481
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  49.13849060306732
+For  Equity(TATAELXSI [867])
+rsi:  84.97657107112951
+For  Equity(BRITANNIA [143])
+rsi:  68.44885019557441
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  43.130040005108825
+For  Equity(TATAELXSI [867])
+rsi:  87.04697361690657
+For  Equity(BRITANNIA [143])
+rsi:  61.04532807480911
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  37.15351837039468
+For  Equity(TATAELXSI [867])
+rsi:  88.07155155530299
+For  Equity(BRITANNIA [143])
+rsi:  53.122627031526584
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  31.883106981074263
+For  Equity(TATAELXSI [867])
+rsi:  88.46716644500285
+For  Equity(BRITANNIA [143])
+rsi:  47.088856177242754
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  31.883106981074263
+For  Equity(TATAELXSI [867])
+rsi:  88.46716644500285
+For  Equity(BRITANNIA [143])
+rsi:  47.08885617724276
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  29.2379836308331
+For  Equity(TATAELXSI [867])
+rsi:  83.9546165162442
+For  Equity(BRITANNIA [143])
+rsi:  45.37667200813174
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  31.862543777583838
+For  Equity(TATAELXSI [867])
+rsi:  79.91470759885888
+For  Equity(BRITANNIA [143])
+rsi:  44.637602391237586
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  35.228504524662
+For  Equity(TATAELXSI [867])
+rsi:  77.08611446416774
+For  Equity(BRITANNIA [143])
+rsi:  43.666407093226375
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  40.251131047554445
+For  Equity(TATAELXSI [867])
+rsi:  77.92333608970469
+For  Equity(BRITANNIA [143])
+rsi:  48.583690214491824
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  51.271927727193855
+For  Equity(TATAELXSI [867])
+rsi:  78.69406438091904
+For  Equity(BRITANNIA [143])
+rsi:  53.66465556981169
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  51.271927727193855
+For  Equity(TATAELXSI [867])
+rsi:  78.69406438091904
+For  Equity(BRITANNIA [143])
+rsi:  53.664655569811686
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  47.50815598756168
+For  Equity(TATAELXSI [867])
+rsi:  79.3185397740919
+For  Equity(BRITANNIA [143])
+rsi:  56.89665726375698
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  42.52193999634013
+For  Equity(TATAELXSI [867])
+rsi:  78.55603297807279
+For  Equity(BRITANNIA [143])
+rsi:  59.89397014555595
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  37.575142284193525
+For  Equity(TATAELXSI [867])
+rsi:  79.57098294502325
+For  Equity(BRITANNIA [143])
+rsi:  62.67069718984973
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  32.58310772881818
+For  Equity(TATAELXSI [867])
+rsi:  80.21932739655607
+For  Equity(BRITANNIA [143])
+rsi:  64.97503500140122
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  27.17431109785771
+For  Equity(TATAELXSI [867])
+rsi:  79.45468835475448
+For  Equity(BRITANNIA [143])
+rsi:  65.92735089371612
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  27.17431109785771
+For  Equity(TATAELXSI [867])
+rsi:  79.45468835475447
+For  Equity(BRITANNIA [143])
+rsi:  65.92735089371612
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  26.956384453148345
+For  Equity(TATAELXSI [867])
+rsi:  80.8515286346119
+For  Equity(BRITANNIA [143])
+rsi:  68.33436395786325
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  28.10365836287876
+For  Equity(TATAELXSI [867])
+rsi:  81.485411711098
+For  Equity(BRITANNIA [143])
+rsi:  70.47053792318881
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  29.740778553025848
+For  Equity(TATAELXSI [867])
+rsi:  73.69911869758778
+For  Equity(BRITANNIA [143])
+rsi:  71.31521771528946
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  30.401114313135366
+For  Equity(TATAELXSI [867])
+rsi:  67.75347490748162
+For  Equity(BRITANNIA [143])
+rsi:  72.26193299904982
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  36.68571205443632
+For  Equity(TATAELXSI [867])
+rsi:  66.27361393558436
+For  Equity(BRITANNIA [143])
+rsi:  73.21302757978016
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  36.68571205443632
+For  Equity(TATAELXSI [867])
+rsi:  66.27361393558436
+For  Equity(BRITANNIA [143])
+rsi:  73.21302757978016
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  35.824611194460985
+For  Equity(TATAELXSI [867])
+rsi:  67.381678323801
+For  Equity(BRITANNIA [143])
+rsi:  73.48035719517809
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  34.78575520488435
+For  Equity(TATAELXSI [867])
+rsi:  70.69720096823652
+For  Equity(BRITANNIA [143])
+rsi:  73.54770148711509
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  32.85180527693602
+For  Equity(TATAELXSI [867])
+rsi:  77.84598626546322
+For  Equity(BRITANNIA [143])
+rsi:  78.71998012391013
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  30.34157994643199
+For  Equity(TATAELXSI [867])
+rsi:  83.13573492001824
+For  Equity(BRITANNIA [143])
+rsi:  81.13809203633164
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  28.608406303362372
+For  Equity(TATAELXSI [867])
+rsi:  87.47484796679507
+For  Equity(BRITANNIA [143])
+rsi:  82.30462364804418
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  28.608406303362372
+For  Equity(TATAELXSI [867])
+rsi:  87.47484796679507
+For  Equity(BRITANNIA [143])
+rsi:  82.30462364804418
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  27.441212055470572
+For  Equity(TATAELXSI [867])
+rsi:  81.51148407360101
+For  Equity(BRITANNIA [143])
+rsi:  83.28297413869821
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  28.096035613326833
+For  Equity(TATAELXSI [867])
+rsi:  82.69683759381952
+For  Equity(BRITANNIA [143])
+rsi:  84.78064577759267
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  28.234820211376757
+For  Equity(TATAELXSI [867])
+rsi:  83.456935364058
+For  Equity(BRITANNIA [143])
+rsi:  86.08552552031553
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  27.05966982540599
+For  Equity(TATAELXSI [867])
+rsi:  82.83928578100974
+For  Equity(BRITANNIA [143])
+rsi:  87.48661077334107
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  26.278437990881287
+For  Equity(TATAELXSI [867])
+rsi:  80.71909418029003
+For  Equity(BRITANNIA [143])
+rsi:  88.04934236615765
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  26.278437990881287
+For  Equity(TATAELXSI [867])
+rsi:  80.71909418029003
+For  Equity(BRITANNIA [143])
+rsi:  88.04934236615765
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  22.49713548477385
+For  Equity(TATAELXSI [867])
+rsi:  85.03343785877752
+For  Equity(BRITANNIA [143])
+rsi:  82.66118546573813
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  19.67711587133097
+For  Equity(TATAELXSI [867])
+rsi:  88.3689139846359
+For  Equity(BRITANNIA [143])
+rsi:  77.52710071118486
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  17.101865805412857
+For  Equity(TATAELXSI [867])
+rsi:  90.79345448098123
+For  Equity(BRITANNIA [143])
+rsi:  73.18843215733303
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  15.40840501150781
+For  Equity(TATAELXSI [867])
+rsi:  92.45821611845933
+For  Equity(BRITANNIA [143])
+rsi:  68.27367296461024
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  14.943703541063044
+For  Equity(TATAELXSI [867])
+rsi:  93.62268437461879
+For  Equity(BRITANNIA [143])
+rsi:  65.22495283573915
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  14.943703541063044
+For  Equity(TATAELXSI [867])
+rsi:  93.62268437461879
+For  Equity(BRITANNIA [143])
+rsi:  65.22495283573915
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  14.472133265580368
+For  Equity(TATAELXSI [867])
+rsi:  94.14558430906872
+For  Equity(BRITANNIA [143])
+rsi:  57.40577285393057
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  13.66367610889175
+For  Equity(TATAELXSI [867])
+rsi:  94.34164125236178
+For  Equity(BRITANNIA [143])
+rsi:  47.64273211710188
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  23.332881812447567
+For  Equity(TATAELXSI [867])
+rsi:  94.51519631395391
+For  Equity(BRITANNIA [143])
+rsi:  40.7010911310247
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  40.229814146303575
+For  Equity(TATAELXSI [867])
+rsi:  94.75526745175002
+For  Equity(BRITANNIA [143])
+rsi:  34.612081021468654
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  50.69899961691251
+For  Equity(TATAELXSI [867])
+rsi:  94.92757778693517
+For  Equity(BRITANNIA [143])
+rsi:  29.30670738397822
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  50.698999616912516
+For  Equity(TATAELXSI [867])
+rsi:  94.92757778693517
+For  Equity(BRITANNIA [143])
+rsi:  29.30670738397822
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  56.132484739590225
+For  Equity(TATAELXSI [867])
+rsi:  95.69852956127478
+For  Equity(BRITANNIA [143])
+rsi:  32.15203341966988
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  61.243823080692515
+For  Equity(TATAELXSI [867])
+rsi:  96.26486876298009
+For  Equity(BRITANNIA [143])
+rsi:  34.87704891263519
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  65.36639226075418
+For  Equity(TATAELXSI [867])
+rsi:  96.6756694926831
+For  Equity(BRITANNIA [143])
+rsi:  38.715909231133445
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  67.06032969458467
+For  Equity(TATAELXSI [867])
+rsi:  96.93081937961871
+For  Equity(BRITANNIA [143])
+rsi:  43.26991248194568
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  69.8371446459144
+For  Equity(TATAELXSI [867])
+rsi:  97.20323556241594
+For  Equity(BRITANNIA [143])
+rsi:  49.72701824737544
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  69.83714464591439
+For  Equity(TATAELXSI [867])
+rsi:  97.20323556241594
+For  Equity(BRITANNIA [143])
+rsi:  49.72701824737544
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  64.28596899847679
+For  Equity(TATAELXSI [867])
+rsi:  95.2411755615943
+For  Equity(BRITANNIA [143])
+rsi:  49.92812017180928
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  59.48218647128676
+For  Equity(TATAELXSI [867])
+rsi:  95.32184146708181
+For  Equity(BRITANNIA [143])
+rsi:  55.406965368925775
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  55.29648234761665
+For  Equity(TATAELXSI [867])
+rsi:  95.35046616746791
+For  Equity(BRITANNIA [143])
+rsi:  59.65304354254407
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  52.84464074588866
+For  Equity(TATAELXSI [867])
+rsi:  95.35807411394757
+For  Equity(BRITANNIA [143])
+rsi:  65.39653646979409
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  51.99552517643366
+For  Equity(TATAELXSI [867])
+rsi:  94.66105945614443
+For  Equity(BRITANNIA [143])
+rsi:  69.96951148430387
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  51.99552517643366
+For  Equity(TATAELXSI [867])
+rsi:  94.66105945614443
+For  Equity(BRITANNIA [143])
+rsi:  69.96951148430388
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  60.749354262627165
+For  Equity(TATAELXSI [867])
+rsi:  93.31871844610365
+For  Equity(BRITANNIA [143])
+rsi:  65.01434861695842
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  65.77681156768273
+For  Equity(TATAELXSI [867])
+rsi:  85.65497959643042
+For  Equity(BRITANNIA [143])
+rsi:  59.463914364710725
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  69.3895236216284
+For  Equity(TATAELXSI [867])
+rsi:  79.0594574799123
+For  Equity(BRITANNIA [143])
+rsi:  55.71564101628901
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  71.17148304641138
+For  Equity(TATAELXSI [867])
+rsi:  71.01456499948848
+For  Equity(BRITANNIA [143])
+rsi:  52.30694573378123
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  72.76194006032449
+For  Equity(TATAELXSI [867])
+rsi:  58.64409733089957
+For  Equity(BRITANNIA [143])
+rsi:  48.74023742489721
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  72.76194006032449
+For  Equity(TATAELXSI [867])
+rsi:  58.64409733089957
+For  Equity(BRITANNIA [143])
+rsi:  48.74023742489721
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  73.67145837764124
+For  Equity(TATAELXSI [867])
+rsi:  60.64823258760636
+For  Equity(BRITANNIA [143])
+rsi:  52.18440533812323
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  75.01241299632488
+For  Equity(TATAELXSI [867])
+rsi:  59.51220241605996
+For  Equity(BRITANNIA [143])
+rsi:  60.21422052964748
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  71.33590840571668
+For  Equity(TATAELXSI [867])
+rsi:  49.68108417012741
+For  Equity(BRITANNIA [143])
+rsi:  62.89877209541917
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  70.57291222845532
+For  Equity(TATAELXSI [867])
+rsi:  39.11959052966498
+For  Equity(BRITANNIA [143])
+rsi:  67.4920859829368
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  73.12478646095634
+For  Equity(TATAELXSI [867])
+rsi:  32.602240551848794
+For  Equity(BRITANNIA [143])
+rsi:  72.05110628107101
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  73.12478646095634
+For  Equity(TATAELXSI [867])
+rsi:  32.602240551848794
+For  Equity(BRITANNIA [143])
+rsi:  72.05110628107101
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  52.88358839370816
+For  Equity(TATAELXSI [867])
+rsi:  30.690198617564477
+For  Equity(BRITANNIA [143])
+rsi:  66.58934138730557
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  41.46768880366953
+For  Equity(TATAELXSI [867])
+rsi:  27.923601856864153
+For  Equity(BRITANNIA [143])
+rsi:  60.88369947244079
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  33.1963272931947
+For  Equity(TATAELXSI [867])
+rsi:  25.358730693548694
+For  Equity(BRITANNIA [143])
+rsi:  54.22914627561345
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  27.678888612892536
+For  Equity(TATAELXSI [867])
+rsi:  23.37576059567415
+For  Equity(BRITANNIA [143])
+rsi:  52.46214207600713
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  22.15838743918013
+For  Equity(TATAELXSI [867])
+rsi:  20.297023712993138
+For  Equity(BRITANNIA [143])
+rsi:  50.55930389720441
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  22.15838743918013
+For  Equity(TATAELXSI [867])
+rsi:  20.297023712993138
+For  Equity(BRITANNIA [143])
+rsi:  50.55930389720441
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  20.923683800322223
+For  Equity(TATAELXSI [867])
+rsi:  18.531923262041133
+For  Equity(BRITANNIA [143])
+rsi:  43.05662529139936
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  19.774586492500887
+For  Equity(TATAELXSI [867])
+rsi:  17.24723282166903
+For  Equity(BRITANNIA [143])
+rsi:  34.53678233616482
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  20.416068400689156
+For  Equity(TATAELXSI [867])
+rsi:  16.252114486121812
+For  Equity(BRITANNIA [143])
+rsi:  29.184729561332915
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  21.62468204372874
+For  Equity(TATAELXSI [867])
+rsi:  15.602125274145521
+For  Equity(BRITANNIA [143])
+rsi:  25.19512611598705
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  21.45016973550854
+For  Equity(TATAELXSI [867])
+rsi:  14.792410715922045
+For  Equity(BRITANNIA [143])
+rsi:  21.59658609416637
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  21.45016973550854
+For  Equity(TATAELXSI [867])
+rsi:  14.792410715922045
+For  Equity(BRITANNIA [143])
+rsi:  21.59658609416637
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  17.25781454659301
+For  Equity(TATAELXSI [867])
+rsi:  10.589641815840992
+For  Equity(BRITANNIA [143])
+rsi:  16.903475985727326
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  14.667828332446348
+For  Equity(TATAELXSI [867])
+rsi:  8.19957656744954
+For  Equity(BRITANNIA [143])
+rsi:  14.075782268630192
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  12.697882304218993
+For  Equity(TATAELXSI [867])
+rsi:  6.623295616437957
+For  Equity(BRITANNIA [143])
+rsi:  12.058344787533201
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  11.277885210475262
+For  Equity(TATAELXSI [867])
+rsi:  5.594321007736454
+For  Equity(BRITANNIA [143])
+rsi:  10.591843520228622
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  10.47826586749052
+For  Equity(TATAELXSI [867])
+rsi:  4.994409210569614
+For  Equity(BRITANNIA [143])
+rsi:  10.030682022714771
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  10.47826586749052
+For  Equity(TATAELXSI [867])
+rsi:  4.994409210569614
+For  Equity(BRITANNIA [143])
+rsi:  10.030682022714757
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  15.975006312931171
+For  Equity(TATAELXSI [867])
+rsi:  11.736166662692554
+For  Equity(BRITANNIA [143])
+rsi:  9.84359379466379
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  19.544646615072907
+For  Equity(TATAELXSI [867])
+rsi:  16.343332614918964
+For  Equity(BRITANNIA [143])
+rsi:  10.273931206680729
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  22.17104646108939
+For  Equity(TATAELXSI [867])
+rsi:  19.095829387601057
+For  Equity(BRITANNIA [143])
+rsi:  10.106241749000603
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  25.503757961502558
+For  Equity(TATAELXSI [867])
+rsi:  22.7159913169711
+For  Equity(BRITANNIA [143])
+rsi:  10.326431847793856
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  29.335294512078107
+For  Equity(TATAELXSI [867])
+rsi:  26.100634020008712
+For  Equity(BRITANNIA [143])
+rsi:  11.949629077781367
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  29.335294512078107
+For  Equity(TATAELXSI [867])
+rsi:  26.100634020008712
+For  Equity(BRITANNIA [143])
+rsi:  11.949629077781367
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  32.16952012748921
+For  Equity(TATAELXSI [867])
+rsi:  35.04052102062404
+For  Equity(BRITANNIA [143])
+rsi:  17.808635021431186
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  37.911765695008405
+For  Equity(TATAELXSI [867])
+rsi:  41.52427445793514
+For  Equity(BRITANNIA [143])
+rsi:  25.710406951048256
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  45.14840097491483
+For  Equity(TATAELXSI [867])
+rsi:  47.554984540739284
+For  Equity(BRITANNIA [143])
+rsi:  34.30459541613867
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+volatility:  1
+
+for  Equity(BRITANNIA [143])
+volatility:  1
+For  Equity(ADANIENT [17])
+rsi:  51.64783750983811
+For  Equity(TATAELXSI [867])
+rsi:  52.50338264280012
+For  Equity(BRITANNIA [143])
+rsi:  41.65598401950619
+
+for  Equity(ADANIENT [17])
+volatility:  1
+
+for  Equity(TATAELXSI [867])
+YOU HAVE EXCEEDED THE MAX PRINT ALLOWED.
+backtest run complete, time taken 0:03:10.860000.
